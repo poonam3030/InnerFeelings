@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message Box</title>
+    <link href='https://fonts.googleapis.com/css?family=serif' rel='stylesheet'>
+    <link rel = "stylesheet" href = "messagebox.css">
+</head>
+<body>
+<div class = "form-container" id = "form" >
+    <h1> MY STORY</h1>
+    <form  method="POST" action = "messagebox.php" class="column">
+        <div id = "input_container">
+            <div>  
+                <input type = "text" name = "firstname" placeholder = "Enter your firstname" required>
+            </div>
+            <div>
+                <input type = "text" name = "Lastname" placeholder = "Enter your Lastname" required>
+            </div>
+            <div>
+                <input type = "text" name = "email" placeholder = "Enter your email">
+            </div>
+            <div>
+                <textarea id="textarea" name = "message"  rows="4" cols="50" placeholder = "Enter Message Here" required></textarea>
+            </div>
+        </div>
+        <div id = "button-container">
+            <button type = "Submit">SUBMIT</button>
+        </div>
+    </form>
+</div>
+</body>
+</html>
