@@ -1,6 +1,6 @@
 Inner Feelings – Mental Health Care Web Application: 
 Inner Feelings is a mental health care web application designed to provide emotional support resources online.  
-The platform allows users to access mental wellness content, share personal recovery experiences and book appointments — all from the comfort of their home. This project focuses on accessibility, awareness, and creating a supportive digital environment using web technologies.
+The platform allows users to access mental wellness content, share personal recovery experiences and book appointments - all from the comfort of their home. This project focuses on accessibility, awareness, and creating a supportive digital environment using web technologies.
 
 Project Overview: The goal of this project is to build a centralized web platform where users can:
 1. Access mental health educational content
